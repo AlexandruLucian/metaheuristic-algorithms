@@ -1,4 +1,4 @@
-package com.udemy.tabu.search;
+package com.udemy.tabuSearch;
 
 public class Constants {
 
